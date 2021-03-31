@@ -1,3 +1,2 @@
- _strong_ 
-* hi, this is a simple project based on my learnings at Holberton school.
-- first project
+_strong_
+*hi, this is my first project on git and I'm having troubles during that
