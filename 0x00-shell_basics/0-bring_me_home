@@ -1,0 +1,9 @@
+#!/bin/bash
+lara@ubuntu:/tmp$ pwd
+/tmp
+laran@ubuntu:/tmp$ echo $HOME
+/home/lara
+lara@ubuntu:/tmp$ source ./0-bring_me_home
+lara@ubuntu:~$ pwd
+/home/lara
+lara@ubuntu:~$ 
